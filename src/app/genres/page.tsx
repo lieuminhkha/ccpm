@@ -28,10 +28,10 @@ const Genres = () => {
         <div className=" text-gc w-full pt-10">
           <ul>
             <li className="w-1/6 float-left py-5 hover:text-white">
-              <Link href={"/"}>Yua Mikami</Link>
+              <Link href={"/"}>Yua Mikami23</Link>
             </li>
             <li className="w-1/6 float-left py-5 hover:text-white ">
-              <Link href={"/"}>Yua Mikami</Link>
+              <Link href={"/"}>Yua Mikami12</Link>
             </li>
             <li className="w-1/6 float-left py-5 hover:text-white ">
               <Link href={"/"}>Yua Mikami</Link>
