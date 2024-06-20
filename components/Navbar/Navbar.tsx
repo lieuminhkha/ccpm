@@ -14,7 +14,7 @@ const Navbar = ({ showModalLogin, setShowModalLogin }: NavbarProps) => {
         <div className="flex-around gap-4">
           <Image src={"/icon/1.jpg"} alt="main_logo" width={80} height={60} />
           <div>
-            <span className="text-white text-20"> WaifuKokushi </span>
+            <span className="text-white text-20"> WaifuKokushi1 </span>
           </div>
         </div>
         <div>
